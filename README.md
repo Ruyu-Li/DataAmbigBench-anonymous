@@ -122,9 +122,3 @@ DEEPSEEK_BASE_URL=https://api.deepseek.com
 
 These can be overridden with environment variables.
 
-## Notes for Reviewers
-
-The prompt and output schema used by the evaluation are included in
-`scripts/prompts.py`. The released evaluation code does not include API keys or
-private configuration files. Reported results can be reproduced by running the
-same model identifiers and deterministic decoding settings used in the paper.

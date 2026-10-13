@@ -1,1 +1,3 @@
 # The evaluation scripts use only the Python standard library.
+# bootstrap_ci.py additionally needs:
+numpy

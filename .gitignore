@@ -2,5 +2,6 @@
 __pycache__/
 *.pyc
 .DS_Store
-results/*_e2e_results.jsonl
-results/*_e2e_summary.json
+results/hinted/*_results.jsonl
+results/open/*_results.jsonl
+results/smoke*/

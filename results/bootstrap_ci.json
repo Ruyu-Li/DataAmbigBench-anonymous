@@ -1,0 +1,681 @@
+{
+ "per": {
+  "tatqa|given|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "tatqa|given|gpt-4o-mini": [
+   99.3,
+   98.7,
+   99.8
+  ],
+  "tatqa|given|qwen3.6-flash": [
+   98.4,
+   97.4,
+   99.2
+  ],
+  "usc|e2e|deepseek-v4-flash": [
+   82.0,
+   76.5,
+   87.0
+  ],
+  "usc|e2e|gpt-4o-mini": [
+   2.8,
+   1.0,
+   5.0
+  ],
+  "usc|e2e|qwen3.6-flash": [
+   49.5,
+   42.0,
+   56.0
+  ],
+  "usc|given|deepseek-v4-flash": [
+   99.8,
+   99.2,
+   100.0
+  ],
+  "usc|given|gpt-4o-mini": [
+   99.8,
+   99.2,
+   100.0
+  ],
+  "usc|given|qwen3.6-flash": [
+   96.5,
+   94.2,
+   98.2
+  ],
+  "retail|e2e|deepseek-v4-flash": [
+   20.2,
+   17.0,
+   23.3
+  ],
+  "retail|e2e|gpt-4o-mini": [
+   6.4,
+   4.8,
+   8.2
+  ],
+  "retail|e2e|qwen3.6-flash": [
+   12.0,
+   9.7,
+   14.3
+  ],
+  "opinionqa|given|deepseek-v4-flash": [
+   99.1,
+   98.4,
+   99.8
+  ],
+  "opinionqa|given|gpt-4o-mini": [
+   87.3,
+   83.8,
+   90.5
+  ],
+  "opinionqa|given|qwen3.6-flash": [
+   99.8,
+   99.5,
+   100.0
+  ],
+  "nasa|type|deepseek-v4-flash": [
+   64.5,
+   63.7,
+   65.4
+  ],
+  "nasa|interp|deepseek-v4-flash": [
+   84.2,
+   83.8,
+   84.7
+  ],
+  "nasa|type|gpt-4o-mini": [
+   42.7,
+   41.9,
+   43.6
+  ],
+  "nasa|interp|gpt-4o-mini": [
+   54.0,
+   52.9,
+   55.1
+  ],
+  "nasa|type|qwen3.6-flash": [
+   72.9,
+   72.3,
+   73.4
+  ],
+  "nasa|interp|qwen3.6-flash": [
+   78.7,
+   78.3,
+   79.2
+  ],
+  "sec|given|qwen3.6-flash": [
+   99.6,
+   99.2,
+   99.9
+  ],
+  "sec|given|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sec|given|gpt-4o-mini": [
+   99.6,
+   99.2,
+   99.9
+  ],
+  "sf311|given|deepseek-v4-flash": [
+   60.0,
+   55.2,
+   64.5
+  ],
+  "sf311|given|gpt-4o-mini": [
+   28.5,
+   24.8,
+   32.5
+  ],
+  "sf311|given|qwen3.6-flash": [
+   48.8,
+   43.2,
+   53.8
+  ],
+  "sf311|type|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sf311|interp|deepseek-v4-flash": [
+   28.9,
+   28.0,
+   29.6
+  ],
+  "sf311|type|gpt-4o-mini": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sf311|interp|gpt-4o-mini": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "sf311|type|qwen3.6-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sf311|interp|qwen3.6-flash": [
+   28.2,
+   25.6,
+   30.4
+  ],
+  "sf311|e2e|deepseek-v4-flash": [
+   28.7,
+   25.5,
+   32.2
+  ],
+  "sf311|e2e|gpt-4o-mini": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "sf311|e2e|qwen3.6-flash": [
+   14.8,
+   11.5,
+   18.0
+  ],
+  "retail|type|deepseek-v4-flash": [
+   75.4,
+   69.8,
+   80.8
+  ],
+  "retail|interp|deepseek-v4-flash": [
+   87.7,
+   84.7,
+   90.5
+  ],
+  "retail|type|gpt-4o-mini": [
+   16.3,
+   11.7,
+   21.7
+  ],
+  "retail|interp|gpt-4o-mini": [
+   44.7,
+   39.2,
+   50.0
+  ],
+  "retail|type|qwen3.6-flash": [
+   76.0,
+   70.5,
+   81.0
+  ],
+  "retail|interp|qwen3.6-flash": [
+   78.7,
+   75.7,
+   81.4
+  ],
+  "tatqa|e2e|deepseek-v4-flash": [
+   85.8,
+   82.9,
+   88.6
+  ],
+  "tatqa|e2e|gpt-4o-mini": [
+   61.8,
+   58.1,
+   65.8
+  ],
+  "tatqa|e2e|qwen3.6-flash": [
+   50.4,
+   46.6,
+   54.0
+  ],
+  "nasa|e2e|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "nasa|e2e|gpt-4o-mini": [
+   33.5,
+   31.6,
+   35.4
+  ],
+  "nasa|e2e|qwen3.6-flash": [
+   82.5,
+   80.9,
+   84.0
+  ],
+  "ambigdocs|type|qwen3.6-flash": [
+   98.0,
+   96.0,
+   99.5
+  ],
+  "ambigdocs|interp|qwen3.6-flash": [
+   90.1,
+   87.0,
+   93.2
+  ],
+  "ambigdocs|type|gpt-4o-mini": [
+   99.5,
+   98.8,
+   100.0
+  ],
+  "ambigdocs|interp|gpt-4o-mini": [
+   95.2,
+   93.2,
+   97.2
+  ],
+  "ambigdocs|type|deepseek-v4-flash": [
+   99.8,
+   99.5,
+   100.0
+  ],
+  "ambigdocs|interp|deepseek-v4-flash": [
+   95.6,
+   93.4,
+   97.7
+  ],
+  "usc|type|deepseek-v4-flash": [
+   98.5,
+   96.5,
+   100.0
+  ],
+  "usc|interp|deepseek-v4-flash": [
+   47.5,
+   40.5,
+   54.3
+  ],
+  "usc|type|gpt-4o-mini": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "usc|interp|gpt-4o-mini": [
+   2.5,
+   0.5,
+   5.0
+  ],
+  "usc|type|qwen3.6-flash": [
+   41.5,
+   35.5,
+   48.0
+  ],
+  "usc|interp|qwen3.6-flash": [
+   91.5,
+   87.5,
+   95.0
+  ],
+  "retail|given|deepseek-v4-flash": [
+   36.4,
+   32.6,
+   39.9
+  ],
+  "retail|given|gpt-4o-mini": [
+   14.5,
+   12.1,
+   16.9
+  ],
+  "retail|given|qwen3.6-flash": [
+   26.6,
+   23.7,
+   29.5
+  ],
+  "ambigdocs|e2e|deepseek-v4-flash": [
+   97.0,
+   95.1,
+   98.8
+  ],
+  "ambigdocs|e2e|qwen3.6-flash": [
+   91.4,
+   88.1,
+   94.3
+  ],
+  "ambigdocs|e2e|gpt-4o-mini": [
+   94.2,
+   91.8,
+   96.2
+  ],
+  "sec|e2e|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sec|e2e|qwen3.6-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sec|e2e|gpt-4o-mini": [
+   96.6,
+   95.3,
+   97.9
+  ],
+  "sec|type|qwen3.6-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sec|interp|qwen3.6-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sec|type|gpt-4o-mini": [
+   77.2,
+   73.8,
+   80.2
+  ],
+  "sec|interp|gpt-4o-mini": [
+   77.2,
+   73.9,
+   80.2
+  ],
+  "sec|type|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "sec|interp|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "nasa|given|deepseek-v4-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "nasa|given|gpt-4o-mini": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "nasa|given|qwen3.6-flash": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "tatqa|type|deepseek-v4-flash": [
+   33.3,
+   29.5,
+   37.0
+  ],
+  "tatqa|interp|deepseek-v4-flash": [
+   84.1,
+   81.1,
+   86.7
+  ],
+  "tatqa|type|gpt-4o-mini": [
+   13.2,
+   10.6,
+   15.9
+  ],
+  "tatqa|interp|gpt-4o-mini": [
+   50.1,
+   46.2,
+   53.9
+  ],
+  "tatqa|type|qwen3.6-flash": [
+   17.0,
+   14.2,
+   19.8
+  ],
+  "tatqa|interp|qwen3.6-flash": [
+   27.6,
+   24.4,
+   30.7
+  ],
+  "opinionqa|e2e|deepseek-v4-flash": [
+   96.0,
+   93.0,
+   98.5
+  ],
+  "opinionqa|e2e|gpt-4o-mini": [
+   0.5,
+   0.0,
+   1.5
+  ],
+  "opinionqa|e2e|qwen3.6-flash": [
+   55.7,
+   49.0,
+   62.3
+  ],
+  "ambigdocs|given|gpt-4o-mini": [
+   97.5,
+   95.8,
+   98.9
+  ],
+  "ambigdocs|given|qwen3.6-flash": [
+   98.3,
+   96.5,
+   99.8
+  ],
+  "ambigdocs|given|deepseek-v4-flash": [
+   99.6,
+   99.0,
+   100.0
+  ],
+  "opinionqa|type|deepseek-v4-flash": [
+   92.5,
+   88.8,
+   95.5
+  ],
+  "opinionqa|interp|deepseek-v4-flash": [
+   91.9,
+   88.9,
+   94.6
+  ],
+  "opinionqa|type|gpt-4o-mini": [
+   7.5,
+   4.0,
+   11.5
+  ],
+  "opinionqa|interp|gpt-4o-mini": [
+   8.8,
+   5.0,
+   12.3
+  ],
+  "opinionqa|type|qwen3.6-flash": [
+   5.5,
+   2.5,
+   9.0
+  ],
+  "opinionqa|interp|qwen3.6-flash": [
+   38.2,
+   33.1,
+   43.5
+  ],
+  "ambigdocs|surf|gpt-4o-mini": [
+   37.0,
+   31.0,
+   43.5
+  ],
+  "ambigdocs|surf|qwen3.6-flash": [
+   82.5,
+   77.0,
+   87.5
+  ],
+  "ambigdocs|surf|deepseek-v4-flash": [
+   79.5,
+   74.0,
+   85.0
+  ],
+  "sec|surf|gpt-4o-mini": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "sec|surf|deepseek-v4-flash": [
+   0.2,
+   0.0,
+   0.5
+  ],
+  "sec|surf|qwen3.6-flash": [
+   0.3,
+   0.0,
+   0.8
+  ],
+  "retail|surf|gpt-4o-mini": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "retail|surf|deepseek-v4-flash": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "retail|surf|qwen3.6-flash": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "nasa|surf|gpt-4o-mini": [
+   22.3,
+   20.5,
+   24.0
+  ],
+  "nasa|surf|deepseek-v4-flash": [
+   15.3,
+   13.8,
+   16.9
+  ],
+  "nasa|surf|qwen3.6-flash": [
+   21.9,
+   20.2,
+   23.8
+  ],
+  "tatqa|surf|gpt-4o-mini": [
+   7.9,
+   5.7,
+   10.2
+  ],
+  "tatqa|surf|deepseek-v4-flash": [
+   29.0,
+   25.4,
+   32.6
+  ],
+  "tatqa|surf|qwen3.6-flash": [
+   24.4,
+   21.1,
+   27.7
+  ],
+  "usc|surf|gpt-4o-mini": [
+   25.5,
+   19.5,
+   31.5
+  ],
+  "usc|surf|deepseek-v4-flash": [
+   31.5,
+   26.0,
+   38.0
+  ],
+  "usc|surf|qwen3.6-flash": [
+   46.0,
+   39.0,
+   53.0
+  ],
+  "opinionqa|surf|gpt-4o-mini": [
+   4.0,
+   1.5,
+   6.5
+  ],
+  "opinionqa|surf|deepseek-v4-flash": [
+   6.0,
+   3.0,
+   9.5
+  ],
+  "opinionqa|surf|qwen3.6-flash": [
+   11.0,
+   6.5,
+   15.5
+  ],
+  "sf311|surf|gpt-4o-mini": [
+   8.0,
+   4.5,
+   11.5
+  ],
+  "sf311|surf|deepseek-v4-flash": [
+   11.5,
+   7.0,
+   16.0
+  ],
+  "sf311|surf|qwen3.6-flash": [
+   10.5,
+   6.5,
+   15.0
+  ]
+ },
+ "avg": {
+  "type|gpt-4o-mini": [
+   44.6,
+   43.6,
+   45.4
+  ],
+  "type|qwen3.6-flash": [
+   63.9,
+   62.8,
+   65.0
+  ],
+  "type|deepseek-v4-flash": [
+   83.0,
+   82.0,
+   84.0
+  ],
+  "interp|gpt-4o-mini": [
+   41.6,
+   40.5,
+   42.7
+  ],
+  "interp|qwen3.6-flash": [
+   66.6,
+   65.5,
+   67.7
+  ],
+  "interp|deepseek-v4-flash": [
+   77.5,
+   76.4,
+   78.6
+  ],
+  "given|gpt-4o-mini": [
+   78.3,
+   77.6,
+   79.0
+  ],
+  "given|qwen3.6-flash": [
+   83.5,
+   82.6,
+   84.4
+  ],
+  "given|deepseek-v4-flash": [
+   86.9,
+   86.1,
+   87.6
+  ],
+  "e2e|gpt-4o-mini": [
+   37.0,
+   36.2,
+   37.7
+  ],
+  "e2e|qwen3.6-flash": [
+   57.0,
+   55.5,
+   58.5
+  ],
+  "e2e|deepseek-v4-flash": [
+   76.2,
+   75.2,
+   77.2
+  ],
+  "surf|gpt-4o-mini": [
+   13.1,
+   11.7,
+   14.4
+  ],
+  "surf|qwen3.6-flash": [
+   24.6,
+   23.2,
+   26.0
+  ],
+  "surf|deepseek-v4-flash": [
+   21.6,
+   20.3,
+   23.0
+  ]
+ }
+}
